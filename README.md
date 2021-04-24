@@ -9,8 +9,6 @@
  
 
 
-- 🔭 I’m currently working to learn more and practice [APIs](https://github.com/alanhcrdz/search-movies)
-
 
 <h3 align="left"> 🌎 Languages:</h3> 
 <ul>
