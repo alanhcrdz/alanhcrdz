@@ -17,7 +17,7 @@
 </ul>
 
 
-<h3 align="left"> Languages Skills and Tools Currently Learning:</h3>
+<h3 align="left"> Some of Languages Skills and Tools I am Currently Working:</h3>
 
 <a href="https://https://github.com/alanhcrdz">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
@@ -35,12 +35,42 @@
 <a href="https://https://github.com/alanhcrdz">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  />
 </a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src=" 	https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  />
+</a>
 
 <a href="https://https://github.com/alanhcrdz">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  />
+  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  />
 </a>
 
 
+
+
+<h3 align="left">Interested in:</h3>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"  />
+</a>
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"  />
+</a>
 <a href="https://https://github.com/alanhcrdz">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"  />
 </a>
@@ -50,14 +80,6 @@
 </a>
 
 
-<h3 align="left">Interested in:</h3>
-<a href="https://https://github.com/alanhcrdz">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"  />
-</a>
-
-<a href="https://https://github.com/alanhcrdz">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  />
-</a>
 <a href="https://https://github.com/alanhcrdz">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  />
 </a>
