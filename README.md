@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  />
 </a>
 <a href="https://https://github.com/alanhcrdz">
-  <img src=" 	https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  />
 </a>
 
 <a href="https://https://github.com/alanhcrdz">
