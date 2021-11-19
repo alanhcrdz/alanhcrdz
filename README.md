@@ -54,7 +54,9 @@
 <a href="https://https://github.com/alanhcrdz">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"  />
 </a>
-
+<a href="https://https://github.com/alanhcrdz">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"  />
+</a>
 
 
 
